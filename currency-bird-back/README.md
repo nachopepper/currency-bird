@@ -14,7 +14,7 @@ Ver ejemplo adjunto, base de datos ocupada: MySQL
 ```
 
 
-### Compiler
+### Correr servidor
 ```
 node app
 ```
