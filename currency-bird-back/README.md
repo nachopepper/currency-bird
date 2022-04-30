@@ -1,6 +1,3 @@
-
-Para correr servidor, ejecutar ```node app```..
-
 # currency-bird-back
 
 ## Project setup
